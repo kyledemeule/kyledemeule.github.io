@@ -1,1 +1,40 @@
-Hello Worldk
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>kyle.bike</title>
+        <style>
+            body {
+                background: url(sbike.gif) no-repeat center center fixed;
+                -webkit-background-size: cover; /* For WebKit*/
+                -moz-background-size: cover;    /* Mozilla*/
+                -o-background-size: cover;      /* Opera*/
+                background-size: cover;         /* Generic*/
+            }
+        </style>
+    </head>
+    <body>
+        <audio  loop autoplay preload="auto">
+            <source src="sound.mp3" />
+            <source src="sound.ogg" />
+        </audio>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            var img = new Image();
+            $(img).attr("src", "bike.gif").load(function() {
+                $("body").attr("style", "background: url('"+ this.src + "') no-repeat center center fixed;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;");
+            });
+            console.log("This is Kyle Demeule's bike.")
+        });
+
+        function showControls() {
+            $('audio').attr('controls', 'controls');
+        }
+        function hideControls() {
+            $('audio').attr('controls', null);
+        }
+    </script>
+    </body>
+</html>
