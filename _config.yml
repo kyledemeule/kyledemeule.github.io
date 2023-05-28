@@ -12,7 +12,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-remote-theme
-  - jekyll-target-blank
+markdown: kramdown
 
 sidebar:
   - name: CV
