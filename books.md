@@ -21,7 +21,9 @@ The book: [Observation and Experiment](https://www.goodreads.com/book/show/34788
 
 ### The Art of Scientific Investigation
 
-The book [The Art of Scientific Investigation](https://www.goodreads.com/book/show/2570722-the-art-of-scientific-investigation).
+The paradoxical title alludes to the fact that scientific investigation is often not obvious or prescriptive and has numerous struggles, road-blocks, and challenges that requires inguenuity and creativity to overcome. Written in the 1960s with many anecdotes from decades before, it's shocking how many parallels there are between early scientific discover and the modern business environment. Each chapter brings new insights and strategies to furthering your own (scientific) inquiry.
+
+The book: [The Art of Scientific Investigation](https://www.goodreads.com/book/show/2570722-the-art-of-scientific-investigation).
 
 ### Introduction to Probability
 
