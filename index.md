@@ -17,15 +17,17 @@ Check out my projects below, or see what I like to [read](./books).
 
 I've worked on some projects in my spare time or as part of school
 
-**[Running with Prefect](https://github.com/kyledemeule/running-with-prefect)**: a benchmarking suite for heterogeneous systems. The primary goal of this project is to improve and update aspects of existing benchmarking suites which are either insufficient or outdated. See the live app [here](https://running-with-prefect.streamlit.app/)!
+**[Running with Prefect](https://github.com/kyledemeule/running-with-prefect)**: an ETL pipeline created using [Prefect](https://www.prefect.io/) to sync activity data from [Strava](https://www.strava.com/) to [Bigquery](https://cloud.google.com/bigquery) and visualize it using [Streamlit](https://streamlit.io/). See the live app [here](https://running-with-prefect.streamlit.app/)!
 
-**[beginner.land](https://beginner.land)**: a minimal command-line utility written in Rust for querying GPU status.
+**[beginner.land](https://beginner.land)**: a site to help you get started with new hobbies, mainly musical genres.
 
-**[SparkBar](https://github.com/BDHU/gpuinfo)**: a minimal command-line utility written in Rust for querying GPU status.
+**[SparkBar](https://github.com/kyledemeule/sparkbar)**: a small Python library for creating text bar charts I call SparkBars (based on Tufte's [sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR&topic)).
 
-**[Ampliview](https://github.com/BDHU/gpuinfo)**: a minimal command-line utility written in Rust for querying GPU status.
+**[Ampliview](https://github.com/kyledemeule/ampliview)**: A tool to help write more useful reviews for [Yelp](https://www.yelp.com/). See it live [here](https://ampliview.herokuapp.com/).
 
-**[Innertube](https://github.com/BDHU/gpuinfo)**: a minimal command-line utility written in Rust for querying GPU status.
+**[Innertube](https://github.com/kyledemeule/innertube)**: Chrome extension to search [YouTube](https://www.youtube.com/) Videos based on their captions.
+
+**[Ripeness Recognition](https://github.com/kyledemeule/cmpt-726-ripeness-recognition)**: An image recognition tool to identify bananas from photographs and classify their ripeness.
 
 ---
 
