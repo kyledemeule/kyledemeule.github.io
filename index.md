@@ -21,9 +21,9 @@ I've worked on several projects for fun or school, here's a few of my favorite:
 
 **[beginner.land](https://beginner.land){:target="_blank" rel="noopener"}**: a site to help you get started with new hobbies, mainly musical genres.
 
-**[SparkBar](https://github.com/kyledemeule/sparkbar){:target="_blank" rel="noopener"}**: a small Python library for creating text bar charts I call sparkbars (based on Tufte's [sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR&topic){:target="_blank" rel="noopener"}).
+**[Sparkbar](https://github.com/kyledemeule/sparkbar){:target="_blank" rel="noopener"}**: a small Python library for creating text bar charts I call sparkbars (based on Tufte's [sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR&topic){:target="_blank" rel="noopener"}).
 
-**[Ampliview](https://github.com/kyledemeule/ampliview){:target="_blank" rel="noopener"}**: a tool to help write more useful reviews for [Yelp](https://www.yelp.com/){:target="_blank" rel="noopener"}. See it live [here](https://ampliview.herokuapp.com/){:target="_blank" rel="noopener"}.
+**[Ampliview](https://github.com/kyledemeule/ampliview){:target="_blank" rel="noopener"}**: a tool to help write more useful reviews for [Yelp](https://www.yelp.com/){:target="_blank" rel="noopener"}. See it live [here](https://ampliview.calmtech.link/){:target="_blank" rel="noopener"}.
 
 **[Innertube](https://github.com/kyledemeule/innertube){:target="_blank" rel="noopener"}**: Chrome extension to search [YouTube](https://www.youtube.com/){:target="_blank" rel="noopener"} videos based on their captions.
 
