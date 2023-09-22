@@ -17,7 +17,7 @@ Check out my projects below, or see what I like to [read](./books).
 
 I've worked on several projects for fun or school, here's a few of my favorite:
 
-**[Running with Prefect](https://github.com/kyledemeule/running-with-prefect){:target="_blank" rel="noopener"}**: an ETL pipeline created using [Prefect](https://www.prefect.io/){:target="_blank" rel="noopener"} to sync activity data from [Strava](https://www.strava.com/){:target="_blank" rel="noopener"} to [Bigquery](https://cloud.google.com/bigquery){:target="_blank" rel="noopener"} and visualize it using [Streamlit](https://streamlit.io/){:target="_blank" rel="noopener"}. See the live app [here](https://running-with-prefect.streamlit.app/){:target="_blank" rel="noopener"}!
+**[Running with Prefect](https://github.com/kyledemeule/running-with-prefect){:target="_blank" rel="noopener"}**: an ETL pipeline created using [Prefect](https://www.prefect.io/){:target="_blank" rel="noopener"} to sync activity data from [Strava](https://www.strava.com/){:target="_blank" rel="noopener"} to [Bigquery](https://cloud.google.com/bigquery){:target="_blank" rel="noopener"} and visualize it using [Streamlit](https://streamlit.io/){:target="_blank" rel="noopener"}. See the live app [here](https://running-with-prefect.calmtech.link/){:target="_blank" rel="noopener"}!
 
 **[beginner.land](https://beginner.land){:target="_blank" rel="noopener"}**: a site to help you get started with new hobbies, mainly musical genres.
 
